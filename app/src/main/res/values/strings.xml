@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Musik Player</string>
+    <string name="song_title">Judul Lagu</string>
+</resources>
