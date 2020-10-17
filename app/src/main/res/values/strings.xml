@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Musik Player</string>
+    <string name="app_name">Music Video</string>
     <string name="song_title">Judul Lagu</string>
+
+    <string name="buffering_string">Buffering&#8230;</string>
+
+    <string name="toast_message">Playback completed.</string>
+    <string name="video_player">Video Player</string>
 </resources>
